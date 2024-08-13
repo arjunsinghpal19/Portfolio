@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Netflix",
+      "imageSrc": "projects/Netflix.png",
+      "description": "Netflix clone website, crafted with HTML and CSS, mirrors the familiar interface of Netflix. Users can explore content, browse movie posters, and experience a mini-Netflix right in their browser.",
+      "skills": ["HTML5", "CSS"],
+      "demo": "https://arjunsinghpal19.github.io/Netflix-Clone/",
+      "source": "https://github.com/arjunsinghpal19/Netflix-Clone"
+    },
+    {
+      "title": "Tic Tac Toe",
+      "imageSrc": "projects/tic.png",
+      "description": "A classic Tic Tac Toe game. This project helped me learn a lot about modules, IIFEs, closures, and scope in JavaScript.",
+      "skills": ["HTML5", "CSS", "JavaScript"],
+      "demo": "https://arjunsinghpal19.github.io/Tic-Tac-Toe/",
+      "source": "https://github.com/arjunsinghpal19/Tic-Tac-Toe"
+    },
+    {
+      "title": "Weather",
+      "imageSrc": "projects/Weather.png", 
+      "description": "I made this project while learning about APIs. While making this project along with APIs concept I also implemented promises concept in JavaScript. This project utilizes two APIs, one for the weather data and another for the background image.",
+      "skills": ["HTML5", "CSS", "JavaScript"],
+      "demo": "#",
+      "source": "#"
+    }
+  ]
